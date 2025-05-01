@@ -5,7 +5,7 @@ import SocialProofSection from './components/SocialProofSection'
 import ProgramHighlights from './components/ProgramHighlights'
 import Apply from './components/Apply'
 import Certificates from './components/Certificates'
-import RealWord from './components/RealWord'
+import RealWorldProjects from './components/RealWord'
 function App() {
   
   return (
@@ -16,7 +16,7 @@ function App() {
       <ProgramHighlights/>
       <Apply/>
       <Certificates/>
-      <RealWord/>
+      <RealWorldProjects/>
     </>
   )
 }
